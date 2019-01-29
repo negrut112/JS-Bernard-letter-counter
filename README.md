@@ -1,6 +1,6 @@
 # JS-Bernard-letter-counter
 
-<p>Bernard is a bot that can count a specific letter from a wrote sentence:</p>
+<p>Bernard is a bot that can count a specific letter from a wrote sentence.</p>
 <p>I invite you to see how it works on: <a href="https://negrut112.github.io/JS-Bernard-letter-counter/">https://negrut112.github.io/JS-Bernard-letter-counter/</a> press F5 to repeat.</p>
 <img src="https://i.imgur.com/dioUeL3.jpg">
 ## JavaScript
