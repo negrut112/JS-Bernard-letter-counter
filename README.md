@@ -19,7 +19,7 @@ var letter = 0;</pre></code>
 <pre><code>for (i = 0; i &lt;= askfor.length; i++) {<br>
 if (askfor.charAt(i) == freq ) {<br>
 letter++;<br>
-};<br>
+ };<br>
 };</pre></code>
 
 <p>Alert comand will display the following string:</p>
