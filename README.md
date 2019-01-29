@@ -23,7 +23,7 @@ letter++;<br>
 };</pre></code>
 
 <p>Alert comand will display the following string:</p>
-<p>alert(‘The letter ’ + freq + ’ appears ’ + letter + ’ times in this sentence.’);<br>
+<pre><code>alert(‘The letter ’ + freq + ’ appears ’ + letter + ’ times in this sentence.’);<br>
 return; // close the loop<br>
 };<br>
-bernardTheLetterCounter(); // run the function</p>
+bernardTheLetterCounter(); // run the function</pre></code>
