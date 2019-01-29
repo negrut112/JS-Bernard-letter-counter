@@ -14,7 +14,7 @@ var askfor = prompt(‘Write a sentence to analise.’);<br>
 var freq = prompt(‘The frequency of wich letter would you like to count?’);<br>
 var letter = 0;</pre></code>
 
-<p>Below we have an if condition inside a for loop that’s giving us the length of the sentence from where we extract the letter to count. After this letter++ comand will loop as many times, the asked letter appears.</p>
+<p>Below we have an <b>if</b> condition inside a <b>for</b> loop that’s giving us the length of the sentence from where we extract the letter to count. After this <b>letter++</b> comand will loop as many times, the asked letter appears.</p>
 
 <pre><code>for (i = 0; i &lt;= askfor.length; i++) {<br>
 if (askfor.charAt(i) == freq ) {<br>
