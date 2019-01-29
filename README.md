@@ -24,6 +24,6 @@ letter++;<br>
 
 <p>Alert comand will display the following string:</p>
 <pre><code>alert(‘The letter ’ + freq + ’ appears ’ + letter + ’ times in this sentence.’);<br>
-return; // close the loop<br>
+return; // closing the loop<br>
 };<br>
 bernardTheLetterCounter(); // run the function</pre></code>
